@@ -28,7 +28,8 @@ Driven by a focus on clear visual communication, I partner with brands to craft 
 * 2025 Jersey Designer
 
 **RNFTC Animefest & HobbyTech Fair 2025**
-* Graphic Designer | E-Sports Live & Graphics Operator
+* Graphic Designer
+* E-Sports Live & Graphics Operator
 
 **LEDIP - Senior High Immersion**
 * Graphics Designer
