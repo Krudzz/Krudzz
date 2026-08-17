@@ -1,16 +1,41 @@
-## Hi there 👋
+# HELLO! 👋 I'm King Rodrigo!
 
-<!--
-**Krudzz/Krudzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A multidisciplinary designer specializing in coding. But I'm heavily specialized in art direction, graphic, and apparel design.
 
-Here are some ideas to get you started:
+Driven by a focus on clear visual communication, I partner with brands to craft cohesive identities that seamlessly blend aesthetics with functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Softwares & Tools
+
+* **Design & UI/UX:** Adobe Photoshop, Figma
+* **Video & Motion:** Adobe Premiere Pro, Alight Motion
+
+### ✨ Professional Skills
+
+* Adaptive & Creative Problem Solving
+* Layout & Composition
+* Collaborative Team Player
+* Time Management
+
+---
+
+### 💼 Experience
+
+**West Esports'**
+*2 Years - Creative  Director*
+* Lead designer for the 2026 New Visual Identity.
+
+**RNFTC Animefest & HobbyTech Fair 2025**
+*Graphic Designer | E-Sports Live & Graphics Operator*
+
+**LEDIP - Senior High Immersion**
+*Graphics Designer*
+
+---
+
+### 📫 Let's Connect
+
+* **Email:** [krudzcreatives.business@gmail.com](mailto:krudzcreatives.business@gmail.com)
+* **Location:** Iloilo, Philippines
+* **Portfolio:** [Behance Profile](behance.com/KrudzCreatives)
