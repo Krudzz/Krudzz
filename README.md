@@ -38,5 +38,5 @@ Driven by a focus on clear visual communication, I partner with brands to craft 
 ### 📫 Let's Connect!
 
 * **Email:** [krudzcreatives.business@gmail.com](mailto:krudzcreatives.business@gmail.com)
-* **Location:** Iloilo, Philippines
+* **Location:** Iloilo City, Philippines
 * **Portfolio:** [Behance Profile](behance.com/KrudzCreatives)
