@@ -1,4 +1,4 @@
-# HELLO! 👋 I'm King Rodrigo!
+# HELLO! 👋 I'm King "Krudz" Rodrigo!
 
 ### A multidisciplinary designer specializing in coding. But I'm heavily specialized in art direction, graphic, and apparel design.
 
